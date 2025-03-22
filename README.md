@@ -6,4 +6,4 @@ Most of the materials are extracted from VFun Mstar, I don't have ownership.<br>
 Currently only the demonstration is completed, the notes editor is still in production
 
 # Demo
-https://www.youtube.com/watch?v=slobmegTptI
+[https://www.youtube.com/watch?v=slobmegTptI](https://www.youtube.com/watch?v=TkbfJHPn9yw&ab_channel=%E5%8A%AA%E5%8A%AADwarF)
